@@ -1,0 +1,16 @@
+header {height:10%;}
+main {height:80%;}
+footer{height:10%;}
+
+	a{ margin:40px}
+	
+/* 		code de formulaire cv 		*/	
+
+
+.cvNouveauSaisie  {margin:auto;}
+td {margin-right:10px; border:1px solid}
+
+.tdEnvoyer{text-align:center}
+.errForm{color:red}
+.cvNouveauSaisie td img{width:100px;}
+
