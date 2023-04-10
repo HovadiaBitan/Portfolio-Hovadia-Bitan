@@ -1,0 +1,152 @@
+body { 
+background-color:blanchedalmond;
+}
+
+  
+
+
+h1{
+	color:white;
+	text-align: center;
+	margin-left:auto;
+    margin-right:auto;
+    border:double 10px;
+    border-color:red;
+}
+h1:hover{
+color: black;
+}
+
+#img_1 {
+	 float:left;
+	 border: double 10px;
+	 border-color: midnightblue;
+	 margin-left: 30px;
+	 margin-right:30px;
+}
+.pre1 {
+	color: midnightblue;
+	font-family: times;
+	margin-right: 510px;
+ }
+.pre1:hover{
+    font-size: 17px;
+} 
+
+
+p{
+	color: midnightblue;
+	font-family: times;
+}
+
+img{
+     border: solid 7px;
+	 border-color: midnightblue;
+}
+
+#ggl_text{
+    position:absolute;
+    top: 548px;
+    left:338px;
+}
+#img_ggl{
+	position:absolute;
+	top: 588px;
+    left: 300px;
+}	
+
+#fb_text{
+	position:absolute;
+	top: 548px;
+    left: 705px;
+}
+#img_fb{
+	position:absolute;
+	top: 598px;
+    left: 650px;
+
+} 
+
+#In_text{
+	position:absolute;
+	top: 548px;
+    left: 1055px;
+
+}
+#img_In{
+	position:absolute;
+	top: 598px;
+    left: 1000px;
+
+}
+
+.img_link:hover{
+	width: 230px;
+	border-color:#766ea8;
+
+}
+h2{
+	position:absolute;
+	top: 765px;
+    left: 568px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right: 90px;
+    padding-left: 100px;
+    color:white;
+    border:double 10px;
+    border-color:red;
+}
+h2:hover{
+    color:black;
+
+}
+form{
+      position:absolute;
+      top:890px;
+      left:565px;
+      padding-top: 60px;
+      padding-bottom: 60px;
+      padding-left: 90px;
+      padding-right: 80px;
+      margin-bottom: 500px;
+      background-color:blanchedalmond;
+      border: double 10px;
+      border-color: rgb(231, 12, 12);
+
+}
+label{
+    color:midnightblue;
+    font-family: georgia;
+    
+}
+input{
+
+    border-radius: 4px;
+	border-color:midnightblue;
+	background-color:#dae6f0;
+
+}
+#pre_DN{
+	color:midnightblue;
+    font-family: georgia;
+    margin-bottom: 1px;
+
+}
+#pre_JMA{
+    color:midnightblue;
+    font-size: 13px;
+    font-family: georgia;
+    margin-top: 5px;
+    margin-bottom: 2px;
+
+}
+#contact_input{
+	position: absolute;
+	left:150px;
+}
+
+
+
+
+    
